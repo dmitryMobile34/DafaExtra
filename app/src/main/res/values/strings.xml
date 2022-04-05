@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dafa Extra</string>
+
+    <string-array name="spinner_menu">
+        <item>Top News</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Motor Sport</item>
+    </string-array>
+
+    <string name="image_chooser">Choose Image</string>
+
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+
+</resources>

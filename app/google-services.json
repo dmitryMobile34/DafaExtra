@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888148980929",
+    "project_id": "dafa-extra",
+    "storage_bucket": "dafa-extra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888148980929:android:5aac06e7b63e7655e21040",
+        "android_client_info": {
+          "package_name": "com.cricketclash.dafaextra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888148980929-uaptq1ufombrh1nupdf9kbbd3mekgle2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGk2ngmlBc614k4pDbCv4iHp6X2XCNHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888148980929-uaptq1ufombrh1nupdf9kbbd3mekgle2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
